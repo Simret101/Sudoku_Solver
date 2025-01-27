@@ -1,5 +1,5 @@
 # **Sudoku Algorithm Game with Timer and Strikes**
-![Sorting Algorithm Visualization](https://raw.githubusercontent.com/Simret101/Sorting_Algorithm_Visualizer/main/assets/photo_2025-01-27_14-53-43.jpg)
+![Sudoku Algorithm Game](https://github.com/Simret101/Sudoku_Solver/blob/main/assets/photo_2025-01-27_16-27-44.jpg).
 
 A simple Sudoku game built using the Pygame library. This game includes an interactive board where users can play Sudoku, with additional features such as a timer and a strike system for errors. The underlying algorithm uses backtracking to solve the Sudoku puzzle.
 
